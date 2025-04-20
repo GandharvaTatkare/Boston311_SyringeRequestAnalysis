@@ -87,7 +87,8 @@ A **Star Schema** was used to structure the data efficiently in a relational for
 ---
 
 ## Data Model - ER Diagram
-![image](https://github.com/user-attachments/assets/646fe6cf-5436-4163-8287-47e10dcc18b0)
+![image](https://github.com/user-attachments/assets/b3497452-67d9-4b86-9744-83a8d1531fdc)
+
 
 
 ---
